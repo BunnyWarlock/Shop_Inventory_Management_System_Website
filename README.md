@@ -15,3 +15,7 @@ I have included the basic adding, editing, and removing items, along with a very
 You can create your own store and become an admin. Then you can assign positions like manager or clerk to other users connected to your store.
 
 You can also get a sales report.
+
+Hopefully, you can learn and even implement this project on your own.
+
+Thank you for reading.
